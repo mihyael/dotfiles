@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dietrich05@web.de
+	name = Michael Dietrich
